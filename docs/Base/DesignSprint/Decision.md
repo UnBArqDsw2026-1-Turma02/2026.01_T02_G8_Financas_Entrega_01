@@ -1,9 +1,19 @@
-# Backlog do Projeto
+# Decision
+
+## Introdução 
+
+Nessa etapa a equipe decide quais soluções serão desenvolvidas, com base no que foi gerado na etapa anterior. Essa etapa é responsável por guiar o desenvolvimento do projeto.
+
+## Metodologia
+
+A metodologia selecionada para a decisão foi a produção do backlog, que é uma lista de funcionalidades que serão desenvolvidas no projeto. 
 
 
-# Theme 1 - Gestão Financeira Base
+## Backlog do Projeto
 
-## Epic 1.1 - Controle de Movimentações Financeiras
+## Theme 1 - Gestão Financeira Base
+
+### Epic 1.1 - Controle de Movimentações Financeiras
 
 ### Feature 1.1.1 - Cadastro de entradas
 
@@ -383,3 +393,9 @@ Eu, como usuario, quero que o sistema me permita por mensagens executar as mesma
 
 **Critérios de Aceite**
 - [ ] O sistema deve permitir que o usuário execute as mesmas funcionalidades que tem na interface web por mensagens
+
+
+
+## Matriz de rastreabilidade
+
+A fazer
