@@ -6,11 +6,11 @@ A etapa de Unpack é a primeira etapa do Design Sprint, onde o time analisa o pr
 
 ## Metodologia
 
-As metodologias utilizadas nessa etapa foram o Brainstorm e as Personas para entender melhor o problema e o contexto do projeto.
+As metodologias utilizadas nessa etapa foram o Brainstorm e as Personas para entender melhor o problema e o contexto do projeto. Antes da execução das metodologias, foi realizada uma pesquisa sobre o tema do projeto para obter o máximo de informações e ideias possíveis, pesquisando sobre outros aplicativos e sites do mesmo tema para obter informações sobre como eles funcionam e quais funcionalidades eles oferecem. 
 
 ### Brainstorm
 
-O Brainstorm é uma técnica de geração de ideias que visa coletar o máximo de ideias possíveis em um curto período de tempo. Por esse motivo, foi selecionada essa metodologia para essa etapa do projeto, com o objetivo de obter o máximo de informações e ideias para resolver o problema proposto. 
+O Brainstorm é uma técnica de geração de ideias que visa coletar o máximo de ideias possíveis em um curto período de tempo. Por esse motivo, foi selecionada essa metodologia para essa etapa do projeto, com o objetivo de obter o máximo de informações e ideias para resolver o problema proposto. Como há apenas um integrante na equipe, o Brainstorm foi realizado com base nas personas criadas e nas pesquisas realizadas sobre o tema do projeto.
 
 <div align="center">
 
@@ -65,3 +65,9 @@ Foram gerados dois artefatos com o objetivo de entender melhor o problema e o co
 Miro. Disponível em: https://miro.com/pt/. Acesso em: 23 de out de 2024
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Capítulo 7 Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC, tópico 7.5.4 Brainstorming de Necessidades e Desejos dos Usuários, página 152. Autopublicação. ISBN: 978-65-00-19677-1.
+
+BTG PACTUAL. Planilha de gastos da Manu Cit e do BTG Pactual. [S. l.], 2025. Disponível em: https://cloud.btgpactual.com/planilha-manu-cit
+. Acesso em: 30 mar. 2026.
+
+CLICKUP. Modelos gratuitos de gerenciamento de dinheiro no Excel para otimizar as despesas. ClickUp Blogue, 28 mar. 2025. Disponível em: https://clickup.com/pt-BR/blog/240449/modelos-de-gerenciamento-de-dinheiro-em-excel
+. Acesso em: 30 mar. 2026.

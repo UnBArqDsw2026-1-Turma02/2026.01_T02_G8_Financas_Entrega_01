@@ -6,6 +6,10 @@ Essa etapa é responsável por criar um protótipo do projeto. O protótipo é u
 
 ## Metodologia
 
-Foi desenvolvido um prototipo de alta fidelidade, utilizando a ferramenta Figma, com base no backlog definido na etapa de Decision. 
+Foi desenvolvido um prototipo de alta fidelidade, utilizando a ferramenta Figma, com base no backlog definido na etapa de Decision. Para desenvolver o protótipo, foi utilizado a metodologia do Atomic Design, que consiste em criar componentes reutilizáveis para o projeto[1].
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/SEafzPsBaD8tBx7tth4AUj/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+## Referências
+
+[1] FROST, Brad. Atomic Design. Disponível em: https://atomicdesign.bradfrost.com/table-of-contents/. Acesso em: 30 mar. 2026.

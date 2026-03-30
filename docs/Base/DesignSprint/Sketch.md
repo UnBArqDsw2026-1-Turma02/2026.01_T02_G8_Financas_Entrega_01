@@ -20,7 +20,7 @@ Trata-se de uma forma de modelagem de ideias, pouco formal, e ideal para reuniõ
 
 ### 5W2H
 
-É um recurso de gestão que auxilia na definição de um plano de ação, respondendo sete perguntas: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto). Dessa forma, é possível documentar de forma direta, clara e objetiva as principais informações do projeto.
+É um recurso de gestão que auxilia na definição de um plano de ação, respondendo sete perguntas: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto). Dessa forma, é possível documentar de forma direta, clara e objetiva as principais informações do projeto. Para o Como, foi consultado a documentação oficial da OpenAI [1].
 
 <div align="center">
 
@@ -42,6 +42,7 @@ Mapa mental é um diagrama que resume de forma gráfica ideias e conceitos, cone
 
 Foram gerados três artefatos com o objetivo de divergir e gerar o máximo de soluções possiveis para o problema, com base no que foi definido na etapa anterior. O primeiro artefato foi o Rich Pictures, que visava entender o contexto do problema, as pessoas envolvidas, as relações entre elas e os problemas que elas enfrentam. O segundo artefato foi o 5W2H, que visava documentar de forma direta, clara e objetiva as principais informações do projeto. O terceiro artefato foi o Mapa Mental, que visava representar as ideias e conceitos gerados na etapa anterior.
 
-## Referencias
+## Referências
 
-material da professora, criar referencia depois
+[1] OPENAI. Plataforma de API. Disponível em: https://openai.com/pt-BR/api/
+. Acesso em: 30 mar. 2026.

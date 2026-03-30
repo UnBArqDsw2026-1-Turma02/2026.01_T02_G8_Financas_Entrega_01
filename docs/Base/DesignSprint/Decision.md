@@ -6,7 +6,7 @@ Nessa etapa a equipe decide quais soluções serão desenvolvidas, com base no q
 
 ## Metodologia
 
-A metodologia selecionada para a decisão foi a produção do backlog, que é uma lista de funcionalidades que serão desenvolvidas no projeto. 
+A metodologia selecionada para a decisão foi a produção do backlog, que é uma lista de funcionalidades que serão desenvolvidas no projeto. O backlog foi originado a partir de diversos artefatos, como mostrado na [Matriz de Rastreabilidade](MatrizRastreabilidade.md).
 
 
 ## Backlog do Projeto
@@ -393,9 +393,3 @@ Eu, como usuario, quero que o sistema me permita por mensagens executar as mesma
 
 **Critérios de Aceite**
 - [ ] O sistema deve permitir que o usuário execute as mesmas funcionalidades que tem na interface web por mensagens
-
-
-
-## Matriz de rastreabilidade
-
-A fazer
