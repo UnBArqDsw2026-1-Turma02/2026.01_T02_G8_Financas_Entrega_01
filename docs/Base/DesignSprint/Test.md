@@ -10,21 +10,21 @@ Este checklist foi elaborado com base no backlog definido no artefato [Decision]
 
 #### Feature 1.1.1 – Cadastro de Entradas
 
-- [x] Tela de cadastro de entrada com os campos: **nome**, **valor**, **fonte** (opcional) e **recorrência**
+- [x] Tela de cadastro de entrada com os campos: **nome**, **valor**, **data**, **fonte** (opcional) e **recorrência**
 - [x] Listagem de entradas ordenadas por data
 - [x] Ação de editar uma entrada
 - [x] Ação de excluir uma entrada
 
 #### Feature 1.1.2 – Cadastro de Saídas
 
-- [x] Tela/fluxo de cadastro de saída com os campos: **nome**, **valor**, **categoria**, **forma de pagamento** (pix, crédito, débito, dinheiro) e **tipo de gasto** (fixo/variável)
+- [x] Tela/fluxo de cadastro de saída com os campos: **nome**, **valor**, **categoria**, **data**, **forma de pagamento** (pix, crédito, débito, dinheiro) e **tipo de gasto** (fixo/variável)
 - [x] Listagem de saídas ordenadas por data
 - [x] Ação de editar uma saída
 - [x] Ação de excluir uma saída
 
 #### Feature 1.1.3 – Cadastro de Contas Parceladas
 
-- [x] Tela/fluxo de cadastro de parcelamento com os campos: **nome**, **valor**, **categoria**, **número de parcelas** e **forma de pagamento**
+- [x] Tela/fluxo de cadastro de parcelamento com os campos: **nome**, **valor**, **data**, **categoria**, **número de parcelas** e **forma de pagamento**
 - [x] Listagem de parcelamentos ordenados por data
 - [x] Edição permitida apenas quando recém-criado ou na primeira parcela
 - [x] Ação de excluir um parcelamento
