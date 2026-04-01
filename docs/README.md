@@ -52,7 +52,21 @@ O projeto **Finanças** se diferencia por combinar, em uma única plataforma, tr
 [7] ECONOMIC NEWS BRASIL. IA em finanças pessoais: tendências 2026. Disponível em: https://economicnewsbrasil.com.br. Acesso em: 30 mar. 2026.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+<div align="center">
+
+![screenshot1](./Base/DesignSprint/assets/screenshot1.png) 
+
+<b>Imagem 1:</b> Miro Board
+
+</div>
+
+<div align="center">
+
+![screenshot2](./Base/DesignSprint/assets/screenshot2.png) 
+
+<b>Imagem 2:</b> Figma Board
+
+</div>
 
 ## Há algo a ser executado?
 
