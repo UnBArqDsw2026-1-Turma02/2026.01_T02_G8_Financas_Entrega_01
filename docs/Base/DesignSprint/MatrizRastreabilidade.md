@@ -21,7 +21,7 @@ A lista de artefato que temos da utlima etapa e que originaram os requisitos a s
 |   1    |   1.1   |   1.1.3   |   1.1.3.1   |   [1], [3]   |   Desktop-5, Desktop-11, Desktop-15   |
 |   1    |   1.1   |   1.1.4   |   1.1.4.1   |   [1], [3]   |   Desktop-2, Desktop-8   |
 |   1    |   1.1   |   1.1.5   |   1.1.5.1   |   [3]   |   Desktop-6   |
-|   1    |   1.1   |   1.1.6   |   1.1.6.1   |   [1], [3]   |   Frame-1   |
+|   1    |   1.1   |   1.1.6   |   1.1.6.1   |   [1], [3]   |   Desktop-16, Desktop-17   |
 |   2    |   2.1   |   2.1.1   |   2.1.1.1   |   [3]   |   Desktop-1   |
 |   2    |   2.1   |   2.1.2   |   2.1.2.1   |   [3]   |   Desktop-1   |
 |   2    |   2.1   |   2.1.3   |   2.1.3.1   |   [3]   |   Desktop-1   |
@@ -34,3 +34,8 @@ A lista de artefato que temos da utlima etapa e que originaram os requisitos a s
 |   5    |   5.1   |   5.1.1   |   5.1.1.1   |   [2], [3]   |   ---   |
 |   5    |   5.1   |   5.1.2   |   5.1.2.1   |   [2], [3]   |   ---   |
 
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 30/03/2026 | Criação da matriz de rastreabilidade | Equipe G8 |

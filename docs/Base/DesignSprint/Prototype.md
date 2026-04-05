@@ -13,3 +13,9 @@ Foi desenvolvido um prototipo de alta fidelidade, utilizando a ferramenta Figma,
 ## Referências
 
 [1] FROST, Brad. Atomic Design. Disponível em: https://atomicdesign.bradfrost.com/table-of-contents/. Acesso em: 30 mar. 2026.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 23/03/2026 | Criação do protótipo do projeto | Equipe G8 |

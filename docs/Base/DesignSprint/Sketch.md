@@ -45,4 +45,10 @@ Foram gerados três artefatos com o objetivo de divergir e gerar o máximo de so
 ## Referências
 
 [1] OPENAI. Plataforma de API. Disponível em: https://openai.com/pt-BR/api/
-. Acesso em: 30 mar. 2026.
+. Acesso em: 23 mar. 2026.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 23/03/2026 | Criação do sketch do projeto | Equipe G8 |

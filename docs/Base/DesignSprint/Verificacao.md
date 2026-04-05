@@ -116,4 +116,8 @@ Este checklist foi elaborado com base no backlog definido no artefato [Decision]
 
 - [x] Gráfico de tendência de gastos por dia
 
----
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 27/03/2026 | Criação do checklist de verificação do projeto | Equipe G8 |

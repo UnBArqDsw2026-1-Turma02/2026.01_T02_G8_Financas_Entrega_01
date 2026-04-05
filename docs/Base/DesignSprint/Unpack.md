@@ -67,7 +67,13 @@ Miro. Disponível em: https://miro.com/pt/. Acesso em: 23 de out de 2024
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Capítulo 7 Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC, tópico 7.5.4 Brainstorming de Necessidades e Desejos dos Usuários, página 152. Autopublicação. ISBN: 978-65-00-19677-1.
 
 BTG PACTUAL. Planilha de gastos da Manu Cit e do BTG Pactual. [S. l.], 2025. Disponível em: https://cloud.btgpactual.com/planilha-manu-cit
-. Acesso em: 30 mar. 2026.
+. Acesso em: 23 mar. 2026.
 
 CLICKUP. Modelos gratuitos de gerenciamento de dinheiro no Excel para otimizar as despesas. ClickUp Blogue, 28 mar. 2025. Disponível em: https://clickup.com/pt-BR/blog/240449/modelos-de-gerenciamento-de-dinheiro-em-excel
-. Acesso em: 30 mar. 2026.
+. Acesso em: 23 mar. 2026.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 23/03/2026 | Criação do unpack do projeto | Equipe G8 |

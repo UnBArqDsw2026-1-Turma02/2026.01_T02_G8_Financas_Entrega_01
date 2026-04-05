@@ -393,3 +393,9 @@ Eu, como usuario, quero que o sistema me permita por mensagens executar as mesma
 
 **Critérios de Aceite**
 - [ ] O sistema deve permitir que o usuário execute as mesmas funcionalidades que tem na interface web por mensagens
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 23/03/2026 | Criação do backlog do projeto | Equipe G8 |

@@ -6,3 +6,9 @@ Esta etapa consiste em verificar e validar o protótipo criado na etapa anterior
 
 - [Checklist de Verificação do Protótipo](Verificacao.md)
 - [Teste de Usabilidade](Validacao.md)
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor |
+|--------|------|-----------|-------|
+| 1.0 | 27/03/2026 | Criação do teste do projeto | Equipe G8 |
