@@ -161,7 +161,7 @@ Após o teste, o participante deve responder ao questionário SUS[1], atribuindo
 
 ## Gravação do Teste de Usabilidade
 
-<iframe src="https://drive.google.com/file/d/1zV9iKT_OuirmtLDcc7KE9BMhHjjpAnGY/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1zV9iKT_OuirmtLDcc7KE9BMhHjjpAnGY/preview" width="640" height="700"></iframe>
 
 ## Referências
 
